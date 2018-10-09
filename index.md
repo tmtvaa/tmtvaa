@@ -7,7 +7,7 @@
 ***
 
 <p align="center">
-    <b><a href="README.md#what-has-inside">About Me</a></b>
+    <b><a href="https://tmtvaa.github.io/project.html">About Me</a></b>
     |
     <b><a href="README.md#setup">Research</a></b>
     |
