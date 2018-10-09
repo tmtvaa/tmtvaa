@@ -2,7 +2,7 @@
     <h2 align="center">WELCOME TO MY PAGE<a 
 </p>
 
-<p align="center"> ///////////////------//////////////.</p>
+<p align="center"> ---------------------------------------------------.</p>
 
 ***
 
@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
+    <img src="https:////c1.staticflickr.com/2/1907/44475170314_70c1d829b3.jpg" />
 </p>
 TRAN MINH TRIEU © 2018
