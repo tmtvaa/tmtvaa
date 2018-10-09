@@ -1,8 +1,7 @@
 <p align="center">
-    <h2 align="center">WELCOME TO MY PAGE<a 
-</p>
+    <h2 align="center">WELCOME TO MY PAGE
 
-<p align="center"> ---------------------------------------------------.</p>
+<p align="center"> ---------------------------------------------------</p>
 
 ***
 
@@ -17,6 +16,6 @@
 </p>
 
 <p align="center">
-    <img src="https://c1.staticflickr.com/2/1907/44475170314_70c1d829b3.jpg" />
+    <img src="https://c1.staticflickr.com/2/1478/25716336774_919f2fe1a2_b.jpg" />
 </p>
 TRAN MINH TRIEU © 2018
