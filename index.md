@@ -7,13 +7,13 @@
 ***
 
 <p align="center">
-    <b><a href="README.md#what-has-inside">What has inside</a></b>
+    <b><a href="README.md#what-has-inside">About Me</a></b>
     |
-    <b><a href="README.md#setup">Setup</a></b>
+    <b><a href="README.md#setup">Research</a></b>
     |
-    <b><a href="README.md#settings">Settings</a></b>
+    <b><a href="README.md#settings">Project</a></b>
     |
-    <b><a href="README.md#how-to">How to</a></b>
+    <b><a href="README.md#how-to">Publications</a></b>
 </p>
 
 <p align="center">
