@@ -6,13 +6,13 @@
 *
 
 <p align="center">
-    <b><a href="https://tmtvaa.github.io/about.html">About Me</a></b>
+    <b><a href="https://trieu.github.io/about.html">About Me</a></b>
     |
-    <b><a href="https://tmtvaa.github.io/research.html">Research</a></b>
+    <b><a href="https://trieu.github.io/research.html">Research</a></b>
     |
-    <b><a href="https://tmtvaa.github.io/documents.html">Documents</a></b>
+    <b><a href="https://trieu.github.io/documents.html">Documents</a></b>
     |
-    <b><a href="https://tmtvaa.github.io/publications.html">Publications</a></b>
+    <b><a href="https://trieu.github.io/publications.html">Publications</a></b>
 </p>
 
 <p align="center">
