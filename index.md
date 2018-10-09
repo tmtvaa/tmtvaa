@@ -44,6 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://tmtvaa.github.i
     <body>
        <h1> This is my test page <h1>          
        <img src="http://placekitten.com/g/300/300"
+       
        <p>Kitty says: <strong>Meow!</strong></p>
     </body>
   </html>
