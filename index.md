@@ -33,3 +33,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>Document</title>
+    </head>       
+    <body>
+       <h1> This is my test page <h1>          
+       <img src="http://placekitten.com/g/300/300"
+       <p>Kitty says: <strong>Meow!</strong></p>
+    </body>
+  </html>
