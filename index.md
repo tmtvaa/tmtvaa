@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-    <img src="https:////c1.staticflickr.com/2/1907/44475170314_70c1d829b3.jpg" />
+    <img src="https://c1.staticflickr.com/2/1907/44475170314_70c1d829b3.jpg" />
 </p>
 TRAN MINH TRIEU © 2018
