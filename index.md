@@ -10,7 +10,7 @@
     |
     <b><a href="https://tmtvaa.github.io/research.html">Research</a></b>
     |
-    <b><a href="https://tmtvaa.github.io/project.html">Project</a></b>
+    <b><a href="https://tmtvaa.github.io/documents.html">Documents</a></b>
     |
     <b><a href="https://tmtvaa.github.io/publications.html">Publications</a></b>
 </p>
