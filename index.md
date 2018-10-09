@@ -33,7 +33,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://tmtvaa.github.io/about.html) or [contact support](https://github.com/contact) and we’ll help you sort it out.
- <!DOCTYPE html>
+ 
+### -------------------------- 
+<!DOCTYPE html>
   <html lang="en">
     <head>
       <meta charset="UTF-8">
