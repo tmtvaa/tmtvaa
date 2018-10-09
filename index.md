@@ -3,7 +3,7 @@
 
 <p align="center"> ---------------------------------------------------</p>
 
-***
+*
 
 <p align="center">
     <b><a href="https://tmtvaa.github.io/about.html">About Me</a></b>
